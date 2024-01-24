@@ -1,6 +1,6 @@
 - 👋  &nbsp;&nbsp;Hi, I’m MIRAJ ARYAL @miraj977
 - 👀  &nbsp;&nbsp;I’m interested in Full Stack Development and continous learning.
-- 🌱  &nbsp;&nbsp;Technologies I have worked with HTML/CSS/JS, PHP/MySQL, Laravel, CodeIgniter, jQuery, ReactJS, Next.js, TypeScript, WordPress, Contentful, GraphQL, Material UI, Tailwind CSS, Styled Components, SCSS.
+- 🌱  &nbsp;&nbsp;Technologies I have worked with HTML/CSS/JS, PHP/MySQL, Laravel, CodeIgniter, jQuery, ReactJS, Next.js, Angular, TypeScript, WordPress, Contentful, GraphQL, Material UI, Tailwind CSS, Styled Components, SCSS.
 - 📫  &nbsp;&nbsp;How to reach me https://mirajaryal.com | hello@mirajaryal.com
 
 <!---
